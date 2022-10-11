@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-
+<!---
 # Pytorch
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white">
 
@@ -33,3 +33,4 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
 # Git
+--->
