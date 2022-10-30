@@ -10,16 +10,16 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
+
   
- <div align="center">
+
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
-</div>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&layout=compact&theme=onedark)
 <div align="center">
 
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnananjadive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nananjadive)
-
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
  </div>
 
