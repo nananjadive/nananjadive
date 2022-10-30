@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=00e5ff&height=150&section=header&text=Hello%20Oh&fontSize=80&fontColor=black)
+[![tistory](https://user-images.githubusercontent.com/117037428/198906747-f93882ef-b326-4d44-a9a2-3dc111deff35.png)](https://nananja.tistory.com/)
 </div>
 <!-- contact -->
 <div align=center>
