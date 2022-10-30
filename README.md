@@ -1,4 +1,6 @@
+<div align=center>
 
+![header](https://capsule-render.vercel.app/api?type=Slice&color=00e5ff&height=150&section=header&text=Hello%20Oh&fontSize=80&fontColor=black)
     
 
 <!--<div align=center><h1>👋 Hi, I’m @nananjadive </h1></div>-->
