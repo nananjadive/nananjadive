@@ -12,15 +12,14 @@
 <!-- <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> -->
 <a href="https://velog.io/@nananjavadive" target="_blank"><img src="https://img.shields.io/badge/daily blog-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
-<br>
 
 
-<h4 align='center'>:red_heart:state:</p>
-<p align='center'>
+</h3>
+
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
-<br>
+
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>
