@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
 - 👋 Hi, I’m @nananjadive
 - 👀 I’m interested in ...
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jadive&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&layout=compact&theme=dark)
   
   
 
