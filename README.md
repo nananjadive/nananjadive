@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=black">
-</div>
+
 
 <!---<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">ㄹ
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--- rank --->
-<div align="center">
+<div align=center><h2> Rank </h2></div>
 
  !![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nananjadive&theme=dark&show_icons=true)
 
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&layout=compact&theme=onedark)
 
-  </div>
+ 
 
 <div align="center">
   
