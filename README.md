@@ -9,6 +9,7 @@ nananjadive/nananjadive is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 
 --->
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&layout=compact&theme=onedark)
