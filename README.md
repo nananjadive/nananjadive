@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 
 --->
 
-<a href="https://nananja.tistory.com/manage" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nananjadiveID&show_icons=true&theme=radical)
+
+ !![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nananjadive&theme=dark&show_icons=true)
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 
