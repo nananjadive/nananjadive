@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&layout=compact&theme=onedark)
 <div align="center">
 
 
