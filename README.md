@@ -24,8 +24,8 @@
  <br>
 
 <!-- 통계 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
-
+![nananjadive's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
+[![nananjadive's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nananjadive&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/nananjadive)
 
 
 <!-- 기술 스택 -->
