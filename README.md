@@ -52,4 +52,5 @@
 
  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
  </div>
-
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sujeong-jang-creator&row=1)](https://github.com/ryo-ma/github-profile-trophy)
