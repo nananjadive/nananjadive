@@ -34,9 +34,10 @@
 <!--<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
 
 <!-- contact -->
-<div align=center><h2> contact </h2></div>
+<div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnananjadive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nananjadive)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
+
+ [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
  </div>
 
