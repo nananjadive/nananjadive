@@ -6,7 +6,6 @@
 <div align=center>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnananjadive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nananjadive)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://nananja.tistory.com/)
  </div>
 
 <!--<div align=center><h1>👋 Hi, I’m @nananjadive </h1></div>-->
@@ -15,11 +14,11 @@
 <p align='center'>
 
  <a href="https://github.com/nanandive" target="_blank"><img src="https://img.shields.io/badge/My projct (real account)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
-<a href="https://nananja.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Tistory&logoColor=white" width = 80px height = 30px/></a>
+<a href="https://nananja.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Tistory&logoColor=yellow" width = 80px height = 30px/></a>
 <!-- <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> -->
 <a href="https://velog.io/@nananjavadive" target="_blank"><img src="https://img.shields.io/badge/daily blog-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive)  -->
 
 <
 </p3>
