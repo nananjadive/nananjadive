@@ -6,7 +6,7 @@
 
 <!-- 통계 -->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadiv)](https://velog.io/@nananjadiv) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 <br>
 
 <!-- 기술 스택 -->
