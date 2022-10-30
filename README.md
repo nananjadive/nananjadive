@@ -1,7 +1,6 @@
 <div align=center>
     
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Welcome &fontSize=50" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
 <!--<div align=center><h1>👋 Hi, I’m @nananjadive </h1></div>-->
 
 <!-- 통계 -->
