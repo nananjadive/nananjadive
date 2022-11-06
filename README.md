@@ -25,7 +25,7 @@
 
 <!-- 통계 -->
 ![nananjadive's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive) 
 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>
