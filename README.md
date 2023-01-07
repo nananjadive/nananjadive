@@ -1,9 +1,9 @@
-<div align=center>
+<!-- <div align=center>
 
 [![tistory](https://user-images.githubusercontent.com/115096296/198907140-56479cc1-370e-4bf8-89a3-70aa967de89f.png)](https://nananja.tistory.com/)
 </div>
 <!-- contact -->
-<div align=center>
+<div align=center> -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnananjadive&count_bg=%23E7B2D9&title_bg=%23CBB3FF&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/nananjadive)
  </div>
@@ -13,11 +13,11 @@
 <h3 align='center'>:blue_heart: SNS list :blue_heart:</p>
 <p align='center'>
 <a href="https://github.com/nanandive" target="_blank"><img src="https://img.shields.io/badge/My projct (real account)-FF9E0F?style=flat-square&logo=Apache&logoColor=white" width = 180px height = 30px/></a>
-<a href="https://nananja.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-E4405F?style=flat-square&logo=Tistory&logoColor=yellow" width = 80px height = 30px/></a>
+<!-- <a href="https://nananja.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-E4405F?style=flat-square&logo=Tistory&logoColor=yellow" width = 80px height = 30px/></a>
 <!-- <a href="https://www.facebook.com/gomdorij" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white" width = 120px height = 30px/></a>
 <a href="https://www.instagram.com/diverser_jang" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"  width = 120px height = 30px/></a> -->
 <a href="https://velog.io/@nananjavadive" target="_blank"><img src="https://img.shields.io/badge/daily dictionary-9999FF?style=flat-square&logo=Vimeo&logoColor=white"  width = 150px height = 30px/></a>
-
+ -->
 
 
 <br>
@@ -26,7 +26,7 @@
 <!-- 통계 -->
 <!-- ![nananjadive's github stats](https://github-readme-stats.vercel.app/api?username=nananjadive&show_icons=true&theme=radical) 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=nananjadive)](https://velog.io/@nananjadive)  -->
-
+<!-- 
 <!-- 기술 스택 -->
 <div align=center><h2>✍ stack </h2></div>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <!--<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> -->
-
+ -->
 
  
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=nananjadive&row=1)](https://github.com/ryo-ma/github-profile-trophy) -->
